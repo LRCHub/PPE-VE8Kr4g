@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ホントノコトバ (feat.Lisa Halim, PURPLE REVEL, 山猿)",
+  "base_artist": "LGYankees",
+  "createdAt": "2026-02-14T14:57:47.296145Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ホントノコトバ feat.Lisa Halim, PURPLE REVEL, 山猿",
+      "artist": "LGYankees presents DJ No.2",
+      "has_synced": false,
+      "path": "select/pl_01_ホントノコトバ_feat.Lisa_Halim,_PURPLE_REVEL,_山猿_LGYankees_presents_DJ_No.2.txt"
+    }
+  ]
+}
